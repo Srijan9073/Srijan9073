@@ -4,7 +4,7 @@
 ### Aspiring Data Analyst | Business Intelligence Analyst | B.Tech CSE (Class of 2027)
 **Cooch Behar Government Engineering College (CGEC), West Bengal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-das)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/srijandas2099/))
 [![Email](https://img.shields.io/badge/Email-srijandas9073%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:srijandas9073@gmail.com)
 [![Status](https://img.shields.io/badge/Available_for-2027_Campus_%26_Off--Campus_Roles-success?style=flat)]()
 
