@@ -18,8 +18,8 @@
 
 - 🎓 Final-year Computer Science & Engineering undergraduate at **CGEC** (Graduating June 2027).
 - 📊 Building practical expertise across the data lifecycle: **Data Extraction (SQL) ➔ Wrangling & Analysis (Python) ➔ Business Dashboards (Power BI / Excel)**.
-- 💼 Working through structured milestones in the **AICTE–IBM SkillsBuild Data Analytics Internship** and the **ApexPlanet Data Analytics program**.
-- 🎯 Preparing for entry-level **Data Analyst / BI Analyst** roles across analytics consulting firms and tech capability centers.
+- 💼 Completing the **AICTE–IBM SkillsBuild Data Analytics with AI Virtual Internship** (ID: IBMUEDA0483).
+- 🎯 Preparing for entry-level **Data Analyst / Business Analyst** roles across analytics consulting firms and tech capability centers.
 
 ---
 
@@ -29,14 +29,14 @@
 
 ### 📅 Current Focus & Monthly Sprint
 
-> **Active Sprint:** Current Work & Milestones
+> **Active Sprint:** Current Learning & Deliverables
 
-- 📊 **SQL & EDA:** Practicing complex multi-table joins, aggregations, and window functions (`RANK`, `DENSE_RANK`, `LEAD`/`LAG`).
-- 🔄 **IBM SkillsBuild Internship:** Working on data wrangling, preprocessing pipelines, and exploratory analysis.
+- 💼 **IBM SkillsBuild Internship:** Working through supervised learning models, data preprocessing, and AI-driven business forecasting.
+- 📊 **Hands-on Case Studies:** Implementing a 5-phase data pipeline covering automated cleaning scripts and SQL business queries.
 - 🎓 **Certifications in Progress:**
   - 🟡 **Google Data Analytics Professional Certificate** *(Coursera — In Progress)*
   - 🟡 **Microsoft PL-300: Power BI Data Analyst** *(Exam Preparation — In Progress)*
-- 🛠️ **4th Year Academic Capstone:** Developing the architecture for an automated **Dynamic Pricing & Demand Forecasting Engine** using Python.
+- 🛠️ **Academic Capstone:** Architecture and baseline models for an automated **Dynamic Pricing & Demand Forecasting Engine** (B.Tech CS 781).
 
 ---
 
@@ -67,15 +67,11 @@
 ### 📈 GitHub Stats & Consistency
 
 <div align="center">
-  <!-- General GitHub Stats -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Srijan9073&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
-
-  <!-- Top Languages Card (Appears as soon as you push your first .py/.sql files) -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan9073&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <!-- Commit Streak Card -->
   <img height="145em" src="https://streak-stats.demolab.com?user=Srijan9073&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -85,14 +81,15 @@
 <!-- 📂 SECTION 2: PROJECTS MATRIX (UPDATE STATUS TAGS HERE)     -->
 <!-- ========================================================= -->
 
-### 📌 Core Projects
+### 📌 Featured Projects & Case Studies
 
 | Project | Stack | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
 | **[Dynamic Pricing Engine](https://github.com/Srijan9073/dynamic-pricing-demand-forecasting)** | Python, FastAPI, Streamlit | E-commerce demand prediction & pricing engine | `In Progress` |
-| **[Customer Churn & Retention Analysis](https://github.com/Srijan9073/customer-churn-retention-analysis)** | Python, Scikit-Learn, Power BI | Identifying high-risk customer segments & churn drivers | `Active` |
-| **[Executive Sales Performance Dashboard](https://github.com/Srijan9073/executive-sales-bi-dashboard)** | Power BI, DAX, Excel | KPI reporting, regional revenue drop-offs, and margins | `Active` |
-| **[Data Analytics Internship Portfolio](https://github.com/Srijan9073/data-analytics-internship-portfolio)** | SQL, Pandas, Power BI | Structured 5-task milestone deliverables | `In Progress` |
+| **[IBM SkillsBuild Analytics Capstone](https://github.com/Srijan9073/ibm-skillsbuild-analytics-capstone)** | Python, Scikit-Learn, Power BI | Official internship capstone aligned with UN SDGs | `In Progress` |
+| **[Data Analytics Pipeline Case Study](https://github.com/Srijan9073/apex-data-analytics-casestudy)** | SQL, Pandas, Power BI | 5-phase data wrangling, SQL EDA, and dashboarding | `Active` |
+| **[Customer Churn & Retention Model](https://github.com/Srijan9073/customer-churn-retention-analysis)** | Python, Scikit-Learn, Power BI | Isolating churn drivers & customer risk deciles | `Active` |
+| **[Executive Sales BI Dashboard](https://github.com/Srijan9073/executive-sales-bi-dashboard)** | Power BI, DAX, Excel | Star-schema modeling, margin leaks, and KPI metrics | `Active` |
 
 ---
 
