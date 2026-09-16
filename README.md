@@ -1,105 +1,87 @@
 <div align="center">
 
-# 📊 Srijan Das
-### **The Quantitative Architect** | Data Analytics & Digital Strategy
-*Bridging Core Engineering Analytics with Management Consulting & Executive Decision-Making*
+# Hi, I'm Srijan Das 👋
+### Aspiring Data Analyst | Business Intelligence Analyst | B.Tech CSE (Class of 2027)
+**Cooch Behar Government Engineering College (CGEC), West Bengal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-das)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijandas9073@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#-flagship-case-repositories)
-
----
-
-> *"Data without business context is overhead. Analytics combined with structured strategy is an unfair competitive advantage."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-das)
+[![Email](https://img.shields.io/badge/Email-srijandas9073%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:srijandas9073@gmail.com)
+[![Status](https://img.shields.io/badge/Available_for-2027_Campus_%26_Off--Campus_Roles-success?style=flat)]()
 
 </div>
 
 ---
 
-## 🎯 Executive Summary
-
-Final-year Computer Science Engineering candidate at **Cooch Behar Government Engineering College** specializing in **Data Analytics & Digital Strategy**. Alumnus of the **McKinsey Forward Program** and certified in the **Google Data Analytics Professional Suite**.
-
-I combine rigorous quantitative engineering (Python, Advanced SQL, Predictive Modeling) with top-down strategic problem-solving (Pyramid Principle, MECE, Hypothesis-Driven Root-Cause Analysis). My focus is delivering production-ready pipelines, executive-grade BI interfaces, and commercial insights for enterprise decision-makers.
-
-- 🔭 **Current Focus:** Advanced DAX, PL-300 prep, and statistical machine learning for operational analytics.
-- 💼 **Immediate Target:** Data Analyst / Business Analyst / BI Consultant (Big 4 / GCCs / Tech Advisory).
-- 🧭 **Long-Range Trajectory:** Strategy Consulting (Digital Transformation & Commercial Analytics) ➔ Top-Tier MBA.
+### 👨‍💻 About Me
+- 🎓 **Final-year B.Tech CSE** student graduating in **2027** with a focus on **Data Analytics & Problem-Solving**.
+- 🛠️ Hands-on with **Python, SQL (PostgreSQL/MySQL), Power BI (DAX), and Advanced Excel** for data cleaning, modeling, and reporting.
+- 💼 Completed virtual simulations & internships with **IBM SkillsBuild**, **BCG X**, and **Tata Group**.
+- 🎯 **Actively seeking:** Data Analyst, Business Analyst, and Associate BI Engineer roles (2027 batch).
 
 ---
 
-## 🛠️ Technical & Strategic Toolkit
+### 🛠️ Tech Stack & Tools
 
-### 💻 Data Engineering & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### 📈 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Data_Modeling-orange?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power_Query-ETL-blue?style=flat-square)
-
-### 🧠 Consulting & Strategic Frameworks
-- **Problem Structuring:** MECE Decomposition, Issue Trees, SMART Problem Scoping
-- **Executive Communication:** The Pyramid Principle (BLUF - Bottom Line Up Front), EPIC Communication Framework
-- **Business Horizons:** Customer Churn Analytics, Revenue Leakage Detection, Retail Unit Economics
+| Area | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Scripting** | Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL) |
+| **BI & Data Visualization** | Power BI (DAX, Power Query, Star Schema), Tableau, Advanced Excel (Pivot Tables, XLOOKUP) |
+| **Core Analytics Skills** | Exploratory Data Analysis (EDA), Data Cleaning, Predictive Modeling, KPI Dashboards, A/B Testing |
+| **Developer Tools** | Git, GitHub, Jupyter Notebook, VS Code |
 
 ---
 
-## 🏆 Verified Programs & Professional Credentials
+### 🚀 Featured Analytics Projects
 
-| Credential | Issuing Body | Core Mastery Area |
-| :--- | :--- | :--- |
-| **McKinsey Forward Program** | McKinsey & Company | Structured Problem-Solving, Executive Influence, Adaptability |
-| **Google Data Analytics Professional** | Coursera | SQL, Spreadsheets, Data Wrangling, BI Storytelling |
-| **Data Analytics with AI Internship** | IBM SkillsBuild / CSRBOX | End-to-End Enterprise Analytics Pipeline & ML Modeling |
-| **Data Science & Analytics Simulation** | BCG X (Forage) | Churn Prediction, Feature Engineering, Strategic Retention |
-| **Data Visualisation Simulation** | Tata Group (Forage) | Executive C-Suite Dashboarding, Retail Revenue Diagnosis |
-| **CS50B: Computer Science for Business**| Harvard University | Strategic Technology Architecture for Executives |
+#### 1. [Enterprise Operational Analytics & ML Pipeline (IBM SkillsBuild Capstone)](https://github.com/Srijan9073/enterprise-data-analytics-ibm-capstone)
+- Built an end-to-end Python pipeline to clean, process, and analyze complex enterprise workflow data.
+- Trained regression and tree-based machine learning models (`scikit-learn`) achieving high predictive accuracy for operational delays.
+- Designed an interactive **Power BI** dashboard to track throughput KPIs and operational bottlenecks.
+- **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Power BI`, `SQL`
 
----
+#### 2. [Customer Churn Diagnostics & Predictive Model (BCG X Simulation)](https://github.com/Srijan9073/customer-churn-retention-strategy-bcgx)
+- Performed hypothesis testing and feature engineering to isolate the actual drivers of customer attrition.
+- Built a **Random Forest Classifier** with class-imbalance treatment (SMOTE) reaching an ROC-AUC of 0.84.
+- Delivered an actionable retention matrix segmenting high-risk, high-value accounts.
+- **Tech Stack:** `Python`, `EDA`, `Feature Engineering`, `Machine Learning`
 
-## 🚀 Flagship Case Repositories
-1. **[Enterprise Predictive Analytics Capstone (IBM SkillsBuild)](https://github.com/Srijan9073/enterprise-data-analytics-ibm-capstone)**  
-   *End-to-end data analytics and predictive modeling platform designed to optimize operational efficiency and minimize cost overruns.*
-2. **[BCG X: Customer Churn Diagnostics & Value-Retention Strategy](https://github.com/Srijan9073/customer-churn-retention-strategy-bcgx)**  
-   *Random Forest classification isolating price sensitivity drivers to prevent enterprise customer attrition, paired with an executive decision matrix.*
-3. **[Tata Group: C-Suite Retail Intelligence Dashboard](https://github.com/Srijan9073/executive-sales-strategy-dashboard-tata)**  
-   *Multi-page Power BI dashboard providing actionable insights on global retail expansion, revenue volatility, and customer concentration risk.*
-
----
-
-## ⚡ Leadership & Organizational Spike
-
-**Vice President | Art Club, CGEC (July 2026 – Present)**
-- Promoted across 3 consecutive years (*Coordinator ➔ Senior Coordinator ➔ Vice President*).
-- Spearhead strategic planning, cross-functional committee leadership, and financial budgeting for campus-wide initiatives engaging **1,000+ stakeholders**.
-- Applied corporate project management principles to transform creative club operations into a structured, data-monitored student organization.
+#### 3. [Global Retail Sales & Revenue Strategy Dashboard (Tata Group Simulation)](https://github.com/Srijan9073/executive-sales-strategy-dashboard-tata)
+- Cleaned and modeled e-commerce transactional data into an optimized star schema.
+- Built a multi-page **Power BI** dashboard tracking regional growth, seasonal revenue drops, and customer concentration.
+- Developed custom DAX measures for Year-over-Year (YoY) revenue velocity and Average Order Value (AOV).
+- **Tech Stack:** `Power BI`, `DAX`, `Data Modeling`, `Excel`
 
 ---
 
-## 📊 Performance Analytics & GitHub Activity
+### 📜 Certifications & Practical Experience
+
+- **Google Data Analytics Professional Certificate** (Coursera) — Comprehensive training in SQL, spreadsheets, and visualization.
+- **McKinsey Forward Program** (McKinsey & Company) — Structured problem-solving, active listening, and workplace communication.
+- **Data Analytics with AI Internship** (IBM SkillsBuild / CSRBOX) — 6-week intensive training with an end-to-end capstone project.
+- **BCG X Data Science & Analytics Simulation** (Forage) — Customer churn prediction and predictive modeling.
+- **Tata Group Data Visualisation Simulation** (Forage) — Business dashboarding and retail KPI analysis.
+
+---
+
+### 👥 Leadership & Campus Activities
+
+- **Vice President | Art Club, CGEC (July 2026 – Present)**
+  - Managed planning, event execution, and budget coordination for college events with **1,000+ student attendees**.
+  - Promoted from Coordinator (2nd year) ➔ Senior Coordinator (3rd year) ➔ Vice President (Final year).
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijan9073&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Srijan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan9073&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijan9073&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijan9073&show_icons=true&theme=default&hide_border=true" alt="Srijan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan9073&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 Connect for Analytics, BI Consulting, or Strategy Collaborations
-**`srijandas9073@gmail.com`** • **[LinkedIn Profile](https://www.linkedin.com/in/srijan-das)**
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/srijan-das) • **srijandas9073@gmail.com**
 
 </div>
