@@ -36,7 +36,7 @@
 - 🎓 **Certifications in Progress:**
   - 🟡 **Google Data Analytics Professional Certificate** *(Coursera — In Progress)*
   - 🟡 **Microsoft PL-300: Power BI Data Analyst** *(Exam Preparation — In Progress)*
-- 🛠️ **Academic Capstone:** Developing the architecture for an automated **Dynamic Pricing & Demand Forecasting Engine** using Python.
+- 🛠️ **4th Year Academic Capstone:** Developing the architecture for an automated **Dynamic Pricing & Demand Forecasting Engine** using Python.
 
 ---
 
