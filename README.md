@@ -1,41 +1,76 @@
-# Hi, I'm Srijan Das 👋
+<div align="center">
+  <h1>Hi, I'm Srijan Das 👋</h1>
+  <p><strong>Final-Year B.Tech CSE Student | Cooch Behar Government Engineering College</strong></p>
+  <p>Focused on Data Analytics, SQL Querying, and Business Intelligence</p>
 
-Final-year Computer Science & Engineering undergraduate at **Cooch Behar Government Engineering College** (Graduating June 2027). 
-
-I focus on **Data Analytics, SQL querying, and Business Intelligence**. My goal is to combine technical data preparation (Python, SQL) with business problem-solving to help teams make clear, data-backed decisions.
-
----
-
-### 🛠️ Technical Toolkit
-
-- **Languages & Databases:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL)
-- **Analytics & BI:** Microsoft Power BI, Advanced Excel (Pivot Tables, XLOOKUP, Data Modeling), Tableau
-- **Core Engineering:** Database Management Systems (DBMS), Data Cleaning & Wrangling, EDA
-- **Business Frameworks:** Hypothesis-Driven Problem Solving, MECE Structuring, Executive Dashboards
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srijan_Das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-das)
+  [![Email](https://img.shields.io/badge/Email-srijandas9073%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srijandas9073@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-West_Bengal%2C_India-555555?style=flat-square&logo=googlemaps&logoColor=white)](#)
+</div>
 
 ---
 
-### 📌 Current Focus & Active Projects
+### 🔍 About Me
 
-- 🔄 **AICTE–IBM SkillsBuild Internship (Data Analytics with AI):** Working through 6-week structured tracks covering data wrangling, exploratory data analysis, and predictive modeling for business cases.
-- 🔄 **B.Tech Final Year Capstone:** Building an automated **Dynamic Pricing & Demand Forecasting Engine** using Python, FastAPI, and Streamlit.
-- 🎯 **Certifications in Progress:** Google Data Analytics Professional Certificate & Microsoft PL-300 (Power BI Data Analyst).
+- 🎓 Final-year Computer Science & Engineering student at **CGEC** (Graduating June 2027).
+- 📊 Actively learning and building projects across the end-to-end data lifecycle: **Data Extraction (SQL) ➔ Wrangling & Analysis (Python) ➔ Business Dashboards (Power BI / Excel)**.
+- 💼 Currently completing hands-on tracks in the **AICTE–IBM SkillsBuild Data Analytics with AI Internship** and the **ApexPlanet Data Analytics program**.
+- 🎯 Goal: Joining a high-performing analytics team at a Big 4 firm, tech GCC, or consultancy as a **Data Analyst / BI Analyst**.
 
 ---
 
-### 📂 Featured Repositories
+### 🛠️ Tech Stack & Tools
 
-| Project | Core Stack | Description | Status |
+#### Data Analysis & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+#### Business Intelligence & Reporting
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+#### Engineering & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Srijan9073&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Srijan's GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan9073&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 📌 Core Projects & Case Studies
+
+| Project | Tech Stack | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
-| **[Dynamic Pricing Engine](./)** | Python, FastAPI, Streamlit | E-commerce demand forecasting & real-time pricing simulation. | `In Progress` |
-| **[Customer Churn Analysis](./)** | Python, Scikit-Learn, Power BI | Identifying key churn drivers and retention risks on retail data. | `Active` |
-| **[Executive Sales Dashboard](./)** | Power BI, DAX, Excel | Interactive KPI dashboard tracking revenue leaks and regional trends. | `Active` |
-| **[Data Analytics Internship Portfolio](./)** | SQL, Pandas, BI | End-to-end milestone tasks from data cleaning to final reporting. | `In Progress` |
+| **[Dynamic Pricing & Demand Engine](https://github.com/Srijan9073/dynamic-pricing-demand-forecasting)** | Python, FastAPI, Streamlit | E-commerce demand prediction & automated price changes | `In Progress` |
+| **[Customer Churn & Retention Model](https://github.com/Srijan9073/customer-churn-retention-analysis)** | Python, Scikit-Learn, Power BI | Identifying high-risk accounts & retention drivers | `Active` |
+| **[Executive Sales Performance Dashboard](https://github.com/Srijan9073/executive-sales-bi-dashboard)** | Power BI, DAX, Excel | KPI tracking, regional revenue drop-offs, and margins | `Active` |
+| **[Internship Data Analytics Portfolio](https://github.com/Srijan9073/data-analytics-internship-portfolio)** | SQL, Pandas, BI | 5 structured milestones from data cleaning to presentation | `In Progress` |
 
 ---
 
-### 📬 Connect With Me
+### 🎯 Current Learning Track
 
-- **Email:** [srijandas9073@gmail.com](mailto:srijandas9073@gmail.com)
-- **LinkedIn:** [linkedin.com/in/srijan-das](https://www.linkedin.com) *(Update with your actual URL)*
-- **Location:** West Bengal, India
+- **Mastering SQL:** Aggregations, Window Functions (`RANK`, `DENSE_RANK`, `LEAD`/`LAG`), CTEs, and query optimization.
+- **Power BI DAX:** Star-schema data modeling, time-intelligence measures, and dynamic executive KPIs.
+- **Preparing for:** Microsoft PL-300 (Power BI Data Analyst Associate) & Google Data Analytics Certificate.
+
+---
+
+<div align="center">
+  <sub>Open to Entry-Level Data Analyst & Business Analyst roles (2026/2027) • Built by Srijan Das</sub>
+</div>
