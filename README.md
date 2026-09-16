@@ -3,7 +3,7 @@
   <p><strong>Final-Year B.Tech CSE Student | Cooch Behar Government Engineering College</strong></p>
   <p>Focused on Data Analytics, SQL Querying, and Business Intelligence</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srijan_Das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-das)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srijan_Das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijandas2099/)
   [![Email](https://img.shields.io/badge/Email-srijandas9073%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srijandas9073@gmail.com)
   [![Location](https://img.shields.io/badge/Location-West_Bengal%2C_India-555555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 </div>
