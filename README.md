@@ -31,12 +31,12 @@
 
 > **Active Sprint:** Current Learning & Deliverables
 
-- 💼 **IBM SkillsBuild Internship:** Working through supervised learning models, data preprocessing, and AI-driven business forecasting.
-- 📊 **Hands-on Case Studies:** Implementing a 5-phase data pipeline covering automated cleaning scripts and SQL business queries.
+- 💼 **IBM SkillsBuild Internship:** Working through supervised learning models, data preprocessing pipelines, and AI-driven business forecasting.
+- 📊 **Personal Analytics Pipeline:** Building an end-to-end 5-phase data project covering automated data cleaning, complex SQL queries, and BI reporting.
 - 🎓 **Certifications in Progress:**
   - 🟡 **Google Data Analytics Professional Certificate** *(Coursera — In Progress)*
   - 🟡 **Microsoft PL-300: Power BI Data Analyst** *(Exam Preparation — In Progress)*
-- 🛠️ **Academic Capstone:** Architecture and baseline models for an automated **Dynamic Pricing & Demand Forecasting Engine** (B.Tech CS 781).
+- 🛠️ **Academic Capstone:** Developing the architecture for an automated **Dynamic Pricing & Demand Forecasting Engine** (B.Tech CS 781).
 
 ---
 
@@ -87,7 +87,7 @@
 | :--- | :--- | :--- | :--- |
 | **[Dynamic Pricing Engine](https://github.com/Srijan9073/dynamic-pricing-demand-forecasting)** | Python, FastAPI, Streamlit | E-commerce demand prediction & pricing engine | `In Progress` |
 | **[IBM SkillsBuild Analytics Capstone](https://github.com/Srijan9073/ibm-skillsbuild-analytics-capstone)** | Python, Scikit-Learn, Power BI | Official internship capstone aligned with UN SDGs | `In Progress` |
-| **[Data Analytics Pipeline Case Study](https://github.com/Srijan9073/apex-data-analytics-casestudy)** | SQL, Pandas, Power BI | 5-phase data wrangling, SQL EDA, and dashboarding | `Active` |
+| **[End-to-End Analytics Pipeline](https://github.com/Srijan9073/end-to-end-data-analytics-pipeline)** | SQL, Pandas, Power BI | 5-phase data wrangling, SQL EDA, and dashboarding | `Active` |
 | **[Customer Churn & Retention Model](https://github.com/Srijan9073/customer-churn-retention-analysis)** | Python, Scikit-Learn, Power BI | Isolating churn drivers & customer risk deciles | `Active` |
 | **[Executive Sales BI Dashboard](https://github.com/Srijan9073/executive-sales-bi-dashboard)** | Power BI, DAX, Excel | Star-schema modeling, margin leaks, and KPI metrics | `Active` |
 
